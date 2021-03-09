@@ -44,17 +44,17 @@ In backend API you can use the nexts URLs to access to the API resources:
 * To see information from a particular user
 [https://cryptic-reef-04829.herokuapp.com/user/1](https://cryptic-reef-04829.herokuapp.com/user/1)
 
-![](resources/1.PNG)
 
 * To create a new user send it in the body from the GET Request (If you dont pass any user it'll create a default user)
 [https://cryptic-reef-04829.herokuapp.com/create](https://cryptic-reef-04829.herokuapp.com/create)
 
-![](resources/2.PNG)
+![](resources/1.PNG)
+
 
 * To update an existing user send it in the body from the GET Request
 [https://cryptic-reef-04829.herokuapp.com/update](https://cryptic-reef-04829.herokuapp.com/update)
 
-![](resources/3.PNG)
+![](resources/2.PNG)
 
 #### User updated
 
